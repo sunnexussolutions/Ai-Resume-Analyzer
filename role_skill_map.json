@@ -1,0 +1,70 @@
+{
+    "Teacher": ["lesson planning", "curriculum design", "student engagement", "assessment", "communication", "subject knowledge", "classroom management"],
+    "Lab Technician": ["laboratory equipment", "safety protocols", "sample analysis", "data recording", "technical support", "maintenance","Medical laboratory technology", "Hematology", "Microbiology", "Clinical Chemistry", "Phlebotomy", "Microbiology", "communication skills"],
+    "Machine Learning Engineer": ["machine learning", "tensorflow", "scikit-learn", "pandas", "classification", "prediction", "models", "deep learning", "algorithms"],
+    "AI/ML Researcher": ["deep learning", "neural networks", "reinforcement learning", "NLP", "generative models", "research", "experiments", "pytorch", "transformers"],
+    "Data Scientist": ["data analysis", "statistics", "python", "machine learning", "visualization", "pandas", "numpy", "regression", "classification"],
+    "Data Analyst": ["excel", "sql", "tableau", "powerbi", "data visualization", "analysis", "statistics", "reporting"],
+    "Software Engineer": ["data structures", "algorithms", "python", "java", "c++", "git", "oop", "problem solving", "api"],
+    "Full Stack Developer": ["html", "css", "javascript", "react", "node.js", "express", "mongodb", "api", "git", "deployment"],
+    "Frontend Developer": ["html", "css", "javascript", "react", "vue", "angular", "bootstrap", "sass"],
+    "Backend Developer": ["node.js", "django", "flask", "express", "api", "sql", "mongodb", "python", "java", "server"],
+    "UI/UX Designer": ["figma", "adobe xd", "wireframes", "prototyping", "user research", "usability testing", "design systems", "interaction design"],
+    "Mobile App Developer": ["flutter", "react native", "android", "ios", "dart", "swift", "kotlin", "mobile UI"],
+    "Cloud Engineer": ["aws", "azure", "gcp", "devops", "docker", "kubernetes", "ci/cd", "linux", "cloud architecture"],
+    "DevOps Engineer": ["docker", "kubernetes", "jenkins", "ci/cd", "linux", "aws", "monitoring", "infrastructure as code"],
+    "Cybersecurity Analyst": ["cybersecurity", "network security", "penetration testing", "firewalls", "encryption", "threat analysis", "vulnerability assessment", "siem"],
+    "Business Analyst": ["business analysis", "requirements gathering", "stakeholder management", "excel", "data analysis", "documentation", "gap analysis", "jira"],
+    "Blockchain Developer": ["blockchain", "solidity", "smart contracts", "ethereum", "web3", "cryptography", "dapps"],
+    "Data Engineer": ["Kafka", "Cloud data Platfomrs(Redshift, BigQuery)", "DBT", "data pipelines", "etl", "big data", "spark", "hadoop", "sql", "python", "data warehousing"],
+    "Network Engineer": ["network design", "routing", "switching", "firewalls", "vpn", "network protocols", "troubleshooting"],
+    "Systems Administrator": ["linux", "windows server", "networking", "virtualization", "scripting", "monitoring"],
+    "Technical Support": ["customer support", "troubleshooting", "ticketing systems", "hardware support", "software installation"],
+    "Project Manager": ["project management", "agile methodologies", "scrum", "stakeholder management", "risk management"],
+    "Quality Assurance Engineer": ["testing methodologies", "automation testing", "selenium", "bug tracking"],
+    "Content Writer": ["content creation", "seo writing", "blogging", "copywriting"],
+    "Graphic Designer": ["graphic design software", "branding", "visual communication"],
+    "Artificial Intelligence Engineer": ["artificial intelligence", "machine learning", "deep learning", "neural networks", "natural language processing", "computer vision", "data analysis", "python", "tensorflow", "pytorch"],
+    "Product Manager": ["product management", "market research", "roadmap planning", "stakeholder communication", "agile methodologies", "user stories", "backlog management"],
+    "Ethical Hacker": ["penetration testing", "vulnerability assessment", "network security", "web application security", "incident response", "security audits", "risk assessment"],
+    "Game Developer": ["game development", "unity", "unreal engine", "c#", "c++", "game design", "3d modeling", "animation", "game mechanics"],
+    "Robotics Engineer": ["robotics", "automation", "control systems", "embedded systems", "sensors", "actuators", "robot programming", "mechatronics"],
+    "Database Administrator": ["database management", "sql", "performance tuning", "backup and recovery", "data modeling", "database security", "oracle", "mysql", "postgresql"],
+    "Sales Engineer": ["technical sales", "product demonstrations", "customer relationship management", "solution selling", "sales presentations", "negotiation skills", "crm software", "technical support"],
+    "SEO Specialist": ["search engine optimization", "keyword research", "on-page optimization", "off-page optimization", "content optimization", "analytics", "google search console", "seo tools"],
+    "Digital Marketing Specialist": ["digital marketing", "social media marketing", "content marketing", "email marketing", "seo", "ppc", "analytics", "google ads", "facebook ads", "marketing automation"],
+    
+    "C Teacher": [
+        "C Programming", "Pointers", "Memory Management", 
+        "File Handling", "Data Structures", "Algorithms", "Debugging"
+    ],
+    "C++ Teacher": [
+        "C++ Programming", "OOP", "STL", "Templates", 
+        "Exception Handling", "Design Patterns"
+    ],
+    "Java Teacher": [
+        "Core Java", "Advanced Java", "JDBC", 
+        "Servlets", "JSP", "Spring", "Hibernate", "JavaFX", "Data Structures", "Algorithms"
+    ],
+    "Python Teacher": [
+        "Python Programming", "OOP", "NumPy",
+        "Pandas", "Matplotlib", "Flask", "Django"," Data Analysis"
+    ],
+    "Computer Lab Technician": [
+        "Operating System Installation",
+        "Windows Administration",
+        "Linux Administration",
+        "Hardware Troubleshooting",
+        "Networking Basics",
+        "Software Installation",
+        "License Management",
+        "Lab Resource Management",
+        "Programming Lab Support",
+        "Data Backup",
+        "Cybersecurity Basics",
+        "Technical Support",
+        "Communication Skills"
+    ]
+
+}
+
